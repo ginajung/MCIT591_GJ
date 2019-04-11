@@ -1,6 +1,9 @@
 
 public class Main {
 
+	
+	//create 50 X 50  2D array with random number
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
@@ -11,7 +14,7 @@ public class Main {
 				{
 				array[i][j]=(int) (Math.random()*10); 
 				}
-			// random 은 0<x<1.. so times 100 and +1 then change to int
+			
 		}
 		for (int i=0; i<N; i++) {
 
