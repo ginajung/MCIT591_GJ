@@ -1,6 +1,6 @@
 
 // This method is for the git DEMO with Collaborator
-// Jhon's edit to the file
+// Let's change here by Collaborator
 
 
 public class Main {
@@ -11,7 +11,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int N= 50;
+		int N= 30;
 		int [][] array = new int[N][N];
 		for (int i=0; i<N; i++){
 			for (int j=0; j<N; j++)
