@@ -1,5 +1,6 @@
 
 // This method is for the git DEMO with Collaborator
+// Jhon's edit to the file
 
 
 public class Main {
@@ -25,6 +26,7 @@ public class Main {
 			{
 				System.out.print(array[i][j]+"");
 			}
+			System.out.print("Test");
 			System.out.println();
 		}
 		}
